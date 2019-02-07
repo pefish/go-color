@@ -1,9 +1,10 @@
 package console_color
 
 import (
+	"fmt"
 	"testing"
 )
 
-func TestColorClass_Test(t *testing.T) {
-
+func TestConsoleColorClass_Blue(t *testing.T) {
+	fmt.Println(ConsoleColor.Blue(`123124`))
 }
