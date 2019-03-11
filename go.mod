@@ -1,1 +1,1 @@
-module gitee.com/pefish/p-go-color
+module github.com/pefish/go-color
